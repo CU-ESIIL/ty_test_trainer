@@ -13,7 +13,7 @@ As the working group progresses, the repository becomes the reproducible record 
 [Edit this homepage in GitHub](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
 [Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
 
-![Working Group Hero](assets/images/hero.png){ .homepage-hero }
+![Working Group Hero](assets/images/hero_river.png){ .homepage-hero }
 
 
 ## Working Group Abstract
